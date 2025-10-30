@@ -55,14 +55,14 @@ pyaudio
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/screen-recorder.git
+   git clone https://github.com/SajjadTalks/Screen-Recorder.git
    cd screen-recorder
    ```
 
 2. **Run the app**
 
    ```bash
-   python screen_recorder.py
+   python main.py
    ```
 
 3. **Select what to record**
@@ -92,7 +92,7 @@ pyaudio
 
 ```
 screen-recorder/
-├── screen_recorder.py      # Main application
+├── main.py      # Main application
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
