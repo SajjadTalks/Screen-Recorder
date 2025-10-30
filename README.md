@@ -16,13 +16,6 @@ It allows you to record **full screen** or **selected area**, choose **video qua
 
 ---
 
-## 🖥️ Demo
-
-![Screen Recorder Demo](https://user-images.githubusercontent.com/your-demo.gif)  
-*(Replace with your actual demo gif if you want)*
-
----
-
 ## ⚙️ Requirements
 
 Install dependencies using pip:
