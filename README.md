@@ -114,13 +114,3 @@ screen-recorder/
 * Audio recording may not work on some systems (especially Linux without proper PulseAudio/ALSA setup).
 * High resolutions (1080p+) may result in lower frame rates on older CPUs.
 
----
-
-## 🧑‍💻 Author
-
-**Sajjad**
-Junior Python Developer 💻
-Likes: Python, Shell, JSON, SQLite
-
----
-
